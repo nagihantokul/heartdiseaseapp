@@ -8,7 +8,7 @@ with open('hd.pkl', 'rb') as file:
 
 # Streamlit app layout
 st.title('Heart Disease Prediction App')
-st.image('heart.jpg', width=400, caption='Early Detection Saves Lives ❤️')
+st.image('heart.jpg', width=700, caption='Early Detection Saves Lives ❤️')
 
 # Sidebar instructions
 st.sidebar.header('How to Use')
